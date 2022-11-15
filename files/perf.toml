@@ -294,7 +294,7 @@ target = "/render?path=templates/test.tpl"
 [server]
 listen = "0.0.0.0"
 port = 25500
-serve_file_root = ""
+serve_file_root = "dist"
 
 [advanced]
 log_level = "info"
